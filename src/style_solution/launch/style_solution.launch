@@ -1,9 +1,9 @@
 <launch>
 
   <!-- node to handle all service callbacks -->
-  <node pkg="pcl_tutorial"
-        name="pcl_tutorial_node"
-        type="pcl_tutorial_node"
+  <node pkg="style_solution"
+        name="style_solution_node"
+        type="style_solution_node"
         output="screen"
   />
   
